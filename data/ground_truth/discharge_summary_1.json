@@ -1,0 +1,44 @@
+{
+  "discharge_date": "2026-06-05",
+  "admission_date": "2026-06-01",
+  "patient_name": "Linda Thompson",
+  "patient_id": "MRN-33018",
+  "primary_diagnosis": "E11.65 Type 2 diabetes mellitus with hyperglycemia",
+  "secondary_diagnoses": [
+    "I10 Essential hypertension",
+    "E78.5 Hyperlipidemia"
+  ],
+  "procedures_performed": [
+    "Medication reconciliation",
+    "Diabetes education"
+  ],
+  "discharge_medications": [
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "BID",
+      "route": "PO"
+    },
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "frequency": "Daily",
+      "route": "PO"
+    }
+  ],
+  "hospital_course": "Improved with IV fluids and insulin titration",
+  "discharge_disposition": "Home",
+  "follow_up_instructions": [
+    "Primary care within 7 days",
+    "Check glucose twice daily",
+    "Return for fever"
+  ],
+  "follow_up_appointments": [
+    {
+      "specialist": "Primary Care",
+      "reason": "Post-discharge follow-up",
+      "recommended_timeframe": "7 days"
+    }
+  ],
+  "attending_physician": "Dr. Michael Reed"
+}

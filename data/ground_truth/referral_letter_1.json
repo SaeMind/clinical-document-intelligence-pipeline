@@ -1,0 +1,24 @@
+{
+  "referral_date": "2026-06-10",
+  "referring_physician": "Dr. Elaine Carter, NPI 1444555666",
+  "referring_facility": "Lakeview Primary Care",
+  "specialist_name": "Dr. Robert Patel",
+  "specialty_requested": "Cardiology",
+  "patient_name": "David Nguyen",
+  "patient_id": "MRN-55790",
+  "date_of_birth": "1978-02-14",
+  "insurance_info": "Horizon PPO",
+  "clinical_indication": "Exertional chest discomfort with abnormal stress test",
+  "chief_complaint": "Chest pain with exertion",
+  "relevant_history": "Hypertension, hyperlipidemia, family history of CAD",
+  "current_medications": [
+    "Atorvastatin 40 mg",
+    "Amlodipine 5 mg"
+  ],
+  "allergies": [
+    "Penicillin"
+  ],
+  "urgency": "urgent",
+  "requested_timeframe": "1-2 weeks",
+  "prior_tests_imaging": "Exercise stress test positive for ischemic changes"
+}

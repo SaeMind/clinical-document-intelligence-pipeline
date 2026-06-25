@@ -1,0 +1,17 @@
+{
+  "claim_id": "CLM-2026-778899",
+  "member_id": "M123456789",
+  "member_name": "John Smith",
+  "payer_name": "Northstar Health Plan",
+  "provider_name": "Primary Care Clinic",
+  "service_date": "2026-06-15",
+  "procedure_code": "99213",
+  "billed_amount": 180.0,
+  "allowed_amount": 120.0,
+  "amount_paid": 96.0,
+  "patient_responsibility": 24.0,
+  "deductible_applied": 0.0,
+  "copay": 20.0,
+  "coinsurance": 4.0,
+  "denial_reason": null
+}

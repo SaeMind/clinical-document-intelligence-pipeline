@@ -1,0 +1,18 @@
+{
+  "authorization_number": "PA-2026-001234",
+  "member_id": "M123456789",
+  "member_name": "John Smith",
+  "procedure_code": "99213",
+  "procedure_description": "Office visit, established patient",
+  "requesting_physician": "Dr. Jane Doe, NPI 1234567890",
+  "facility": "Primary Care Clinic",
+  "authorization_date": "2026-06-15",
+  "expiration_date": "2026-12-15",
+  "auth_status": "approved",
+  "number_of_visits": 5,
+  "clinical_indication": "Management of hypertension and diabetes",
+  "special_conditions": [
+    "Use in-network provider",
+    "Submit progress notes after fifth visit"
+  ]
+}
