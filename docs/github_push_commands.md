@@ -13,12 +13,14 @@ git init
 git add .
 git commit -m "Structured clinical document intelligence pipeline: classification, schema-constrained extraction, Pydantic validation, gold-standard evaluation. Fixed hardcoded-output bug in lab results and discharge summary demo parsers; added missing extractor test coverage."
 git branch -M main
-gh repo create SaeMind/document-intelligence-pipeline --public --source=. --remote=origin --push
+gh repo create SaeMind/clinical-document-intelligence-pipeline --public --source=. --remote=origin --push
 ```
+
+Live at: https://github.com/SaeMind/clinical-document-intelligence-pipeline
 
 If the repo already exists:
 
 ```bash
-git remote add origin https://github.com/SaeMind/document-intelligence-pipeline.git
+git remote add origin https://github.com/SaeMind/clinical-document-intelligence-pipeline.git
 git push -u origin main
 ```
